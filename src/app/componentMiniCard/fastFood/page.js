@@ -8,6 +8,22 @@ const products = [
     rating: 4.5,
   },
   {
+    image: "/imageCon/kh/kh11.png",
+    name: "1. Fresh Lok Lak",
+    description: "Khmer Traditional food",
+    price: "8.99",
+    star: "⭐⭐⭐⭐⭐",
+    rating: 4.5,
+  },
+  {
+    image: "/imageCon/kh/kh13.png",
+    name: "1. Fresh ",
+    description: "Khmer Traditional food",
+    price: "8.99",
+    star: "⭐⭐⭐⭐⭐",
+    rating: 4.5,
+  },
+  {
     image: "/imageCon/kh/kh12.png",
     name: "1. Fresh Lok Lak",
     description: "Khmer Traditional food",
