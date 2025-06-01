@@ -1,7 +1,7 @@
 const products = [
   {
     image: "/imageCon/fastfood/ff1.png",
-    name: "1. Fresh Lok Lak",
+    name: "1. Nom Pang Sac",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -9,7 +9,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff2.png",
-    name: "1. Fresh Lok Lak",
+    name: "2 Mi Cha",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -17,7 +17,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff3.png",
-    name: "1. Fresh Lok Lak",
+    name: "3. Bay Bak Thom",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -25,7 +25,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff4.png",
-    name: "1. Fresh Lok Lak",
+    name: "4. Sac Ko Ang",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -33,7 +33,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff5.png",
-    name: "1. Fresh Lok Lak",
+    name: "5. Sayor",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -41,7 +41,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff6.png",
-    name: "1. Fresh Lok Lak",
+    name: "6. Morn Bompong",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -49,7 +49,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff7.png",
-    name: "1. Fresh Lok Lak",
+    name: "7. Burger",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff8.png",
-    name: "1. Fresh Lok Lak",
+    name: "8. Hotdog",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff9.png",
-    name: "1. Fresh Lok Lak",
+    name: "Fries Potato",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff10.png",
-    name: "1. Fresh Lok Lak",
+    name: "10. Nom pea",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff11.png",
-    name: "1. Fresh Lok Lak",
+    name: "11. Lot",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -89,7 +89,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff12.png",
-    name: "1. Fresh Lok Lak",
+    name: "12 Shushi",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -97,7 +97,7 @@ const products = [
   },
   {
     image: "/imageCon/fastfood/ff13.png",
-    name: "1. Fresh Lok Lak",
+    name: "13. Bay morn",
     description: "Fast food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",

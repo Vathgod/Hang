@@ -1,7 +1,7 @@
 const products = [
   {
     image: "/imageCon/kh/kh1.png",
-    name: "1. Fresh Lok Lak",
+    name: "1. Brohok Ktis",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -9,7 +9,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh2.png",
-    name: "1. Fresh Lok Lak",
+    name: "2. Nom Banh Jok ",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -17,7 +17,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh3.png",
-    name: "1. Fresh Lok Lak",
+    name: "3. Kor Ko",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -25,7 +25,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh4.png",
-    name: "1. Fresh Lok Lak",
+    name: "4. Bay Sac Jruk",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -33,7 +33,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh5.png",
-    name: "1. Fresh Lok Lak",
+    name: "5. Fresh Lok Lak",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -41,7 +41,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh6.png",
-    name: "1. Fresh Lok Lak",
+    name: "6 Mju Krerng Sac Ko",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -49,7 +49,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh7.png",
-    name: "1. Fresh Lok Lak",
+    name: "7. Kuy Teav",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh8.png",
-    name: "1. Fresh Lok Lak",
+    name: "8. Kuy Teav",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh9.png",
-    name: "1. Fresh Lok Lak",
+    name: "9. Kuy teavt Khor Ko",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh10.png",
-    name: "1. Fresh Lok Lak",
+    name: "10. Janang",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh11.png",
-    name: "1. Fresh Lok Lak",
+    name: "11. Brohok Ktis",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -89,23 +89,16 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh12.png",
-    name: "1. Fresh Lok Lak",
+    name: "12. Brohok Jrunh",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
     rating: 4.5,
   },
-  {
-    image: "/imageCon/kh/kh12.png",
-    name: "1. Fresh Lok Lak",
-    description: "Khmer Traditional food",
-    price: "8.99",
-    star: "⭐⭐⭐⭐⭐",
-    rating: 4.5,
-  },
+
   {
     image: "/imageCon/kh/kh13.png",
-    name: "1. Fresh Lok Lak",
+    name: "13. Kary",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -113,7 +106,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh14.png",
-    name: "1. Fresh Lok Lak",
+    name: "Nhorm",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -121,7 +114,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh15.png",
-    name: "1. Fresh Lok Lak",
+    name: "15. Bro hok Ktis",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -129,7 +122,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh16.png",
-    name: "1. Fresh Lok Lak",
+    name: "16. Mju Youn",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -137,7 +130,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh17.png",
-    name: "1. Fresh Lok Lak",
+    name: "17. TongYam",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -145,7 +138,7 @@ const products = [
   },
   {
     image: "/imageCon/kh/kh18.png",
-    name: "1. Fresh Lok Lak",
+    name: "18. Cha Kdav",
     description: "Khmer Traditional food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",

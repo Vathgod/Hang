@@ -36,7 +36,7 @@ export default function ProductsPage() {
       <div className="flex flex-wrap sm:mt-3 justify-start ml-8 sm:ml-0  items-center gap-4 mb-5 sm:mb-8">
         <button
           onClick={() => setSelectedFood("all")}
-          className={`px-4 leading-[1] py-2 h-fit text-[10px]  sm:px-5 sm:text-sm   rounded ${
+          className={`px-4 leading-[1] py-2 h-fit text-[10px] hover:border-orange-600 hover:text-orange-600  sm:px-5 sm:text-sm   rounded ${
             selectedFood === "all"
               ? "bg-transparent text-orange-600 border border-orange-600 rounded-3xl"
               : "bg-transparent text-white border border-white rounded-3xl"
@@ -46,7 +46,7 @@ export default function ProductsPage() {
         </button>
         <button
           onClick={() => setSelectedFood("europe")}
-          className={`px-4 leading-[1] py-2 h-fit text-[10px] sm:px-5 sm:text-sm  rounded ${
+          className={`px-4 leading-[1] py-2 h-fit text-[10px] hover:border-orange-600 hover:text-orange-600 sm:px-5 sm:text-sm  rounded ${
             selectedFood === "europe"
               ? "bg-transparent text-orange-600 border border-orange-600 rounded-3xl"
               : "bg-transparent text-white border border-white rounded-3xl"
@@ -56,7 +56,7 @@ export default function ProductsPage() {
         </button>
         <button
           onClick={() => setSelectedFood("khmer")}
-          className={`px-4 leading-[1] py-2 h-fit text-[10px] sm:px-5 sm:text-sm  rounded ${
+          className={`px-4 leading-[1] py-2 h-fit text-[10px] hover:border-orange-600 hover:text-orange-600 sm:px-5 sm:text-sm  rounded ${
             selectedFood === "khmer"
               ? "bg-transparent text-orange-600 border border-orange-600 rounded-3xl"
               : "bg-transparent text-white border border-white rounded-3xl"
@@ -67,7 +67,7 @@ export default function ProductsPage() {
 
         <button
           onClick={() => setSelectedFood("drink")}
-          className={`px-4 leading-[1] py-2 h-fit text-[10px] sm:px-5 sm:text-sm  rounded ${
+          className={`px-4 leading-[1] py-2 h-fit text-[10px] hover:border-orange-600 hover:text-orange-600 sm:px-5 sm:text-sm  rounded ${
             selectedFood === "drink"
               ? "bg-transparent text-orange-600 border border-orange-600 rounded-3xl"
               : "bg-transparent text-white border border-white rounded-3xl"
@@ -77,7 +77,7 @@ export default function ProductsPage() {
         </button>
         <button
           onClick={() => setSelectedFood("sweet")}
-          className={`px-4 leading-[1] py-2 h-fit text-[10px] sm:px-5 sm:text-sm  rounded ${
+          className={`px-4 leading-[1] py-2 h-fit text-[10px] hover:border-orange-600 hover:text-orange-600 sm:px-5 sm:text-sm  rounded ${
             selectedFood === "sweet"
               ? "bg-transparent text-orange-600 border border-orange-600 rounded-3xl"
               : "bg-transparent text-white border border-white rounded-3xl"

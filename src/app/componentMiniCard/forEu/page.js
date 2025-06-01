@@ -1,7 +1,7 @@
 const products = [
   {
     image: "/imageCon/eu/eu1.png",
-    name: "1. Fresh Lok Lak",
+    name: "1. Beef Steak",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -9,7 +9,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu2.png",
-    name: "1. Fresh Lok Lak",
+    name: "2.	Spaghetti Bolognese",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -17,7 +17,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu3.png",
-    name: "1. Fresh Lok Lak",
+    name: "3. Lasagna",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -25,7 +25,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu4.png",
-    name: "1. Fresh Lok Lak",
+    name: "4. Pasta Carbonara",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -33,7 +33,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu5.png",
-    name: "1. Fresh Lok Lak",
+    name: "5.Chicken Cordon Bleu",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -41,7 +41,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu6.png",
-    name: "1. Fresh Lok Lak",
+    name: "6.Paella",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -49,7 +49,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu7.png",
-    name: "1. Fresh Lok Lak",
+    name: "7.Bouillabaisse",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu8.png",
-    name: "1. Fresh Lok Lak",
+    name: "8.Moussaka",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu9.png",
-    name: "1. Fresh Lok Lak",
+    name: "9.Coq au Vin",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu10.png",
-    name: "1. Fresh Lok Lak",
+    name: "10. Pork Schnitzel",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu11.png",
-    name: "1. Fresh Lok Lak",
+    name: "11. Goulash",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -89,7 +89,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu12.png",
-    name: "1. Fresh Lok Lak",
+    name: "12. Seafood Risotto",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -97,7 +97,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu13.png",
-    name: "1. Fresh Lok Lak",
+    name: "13. Stuffed Bell Peppers",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -105,7 +105,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu14.png",
-    name: "1. Fresh Lok Lak",
+    name: "14.	Bruschetta",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -113,7 +113,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu15.png",
-    name: "1. Fresh Lok Lak",
+    name: "15. Tortilla Española",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -121,7 +121,7 @@ const products = [
   },
   {
     image: "/imageCon/eu/eu16.png",
-    name: "1. Fresh Lok Lak",
+    name: "16. 	Gratin Dauphinois",
     description: "A Foriegn Food",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",

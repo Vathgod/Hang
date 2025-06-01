@@ -1,7 +1,7 @@
 const products = [
   {
     image: "/imageCon/drink/dr1.png",
-    name: "1. Fresh Lok Lak",
+    name: "1. Matcha",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -9,7 +9,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr2.png",
-    name: "1. Fresh Lok Lak",
+    name: "2. Espresso",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -17,7 +17,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr3.png",
-    name: "1. Fresh Lok Lak",
+    name: "3. Americano",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -25,7 +25,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr4.png",
-    name: "1. Fresh Lok Lak",
+    name: "4. Cappuccino",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -33,7 +33,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr5.png",
-    name: "1. Fresh Lok Lak",
+    name: "5. Latte",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -41,7 +41,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr6.png",
-    name: "1. Fresh Lok Lak",
+    name: "6. Mocha",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -49,7 +49,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr7.png",
-    name: "1. Fresh Lok Lak",
+    name: "7. Khmer Tea",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr8.png",
-    name: "1. Fresh Lok Lak",
+    name: "8. Chamomile Tea",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr9.png",
-    name: "1. Fresh Lok Lak",
+    name: "9. Strawberry Smoothies",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr10.png",
-    name: "1. Fresh Lok Lak",
+    name: "10. Blueberry Smoothies",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr11.png",
-    name: "1. Fresh Lok Lak",
+    name: "11. Dragon fruit Smoothies",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -89,7 +89,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr12.png",
-    name: "1. Fresh Lok Lak",
+    name: "12. Pineapple Smoothies",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -97,7 +97,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr13.png",
-    name: "1. Fresh Lok Lak",
+    name: "13. Smoothies",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -105,7 +105,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr14.png",
-    name: "1. Fresh Lok Lak",
+    name: "14. Hot Chocolate",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
@@ -113,7 +113,7 @@ const products = [
   },
   {
     image: "/imageCon/drink/dr15.png",
-    name: "1. Fresh Lok Lak",
+    name: "15. Fresh Coconut",
     description: "Recommend Drink",
     price: "8.99",
     star: "⭐⭐⭐⭐⭐",
