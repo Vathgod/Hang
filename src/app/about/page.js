@@ -6,30 +6,30 @@ export default function AboutPage() {
       name: "Phnom Penh Branch",
       address: "123 Sisowath Quay, Phnom Penh",
       phone: "+855 12 345 678",
-      image:
-        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=400&q=80",
+      image: "../../../imageCon/colap/c6.png",
     },
     {
       name: "Siem Reap Branch",
       address: "45 Pub Street, Siem Reap",
       phone: "+855 98 765 432",
-      image:
-        "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+
+      image: "../../../imageCon/colap/c7.png",
     },
     {
       name: "Battambang Branch",
       address: "789 Main St, Battambang",
       phone: "+855 23 456 789",
-      image:
-        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=400&q=80",
+
+      image: "../../../imageCon/colap/c8.png",
     },
   ];
 
   const partners = [
-    { name: "Partner 1", logo: "../../../imageCon/floer.png" },
-    { name: "Partner 2", logo: "../../../imageCon/lokb.jpg" },
-    { name: "Partner 3", logo: "../../../imageCon/flower2.png" },
-    { name: "Partner 4", logo: "../../../imageCon/floer.png" },
+    { name: "Partner 1", logo: "../../../imageCon/colap/c1.png" },
+    { name: "Partner 2", logo: "../../../imageCon/colap/c2.png" },
+    { name: "Partner 3", logo: "../../../imageCon/colap/c3.png" },
+    { name: "Partner 4", logo: "../../../imageCon/colap/c4.png" },
+    { name: "Partner 5", logo: "../../../imageCon/colap/c5.png" },
   ];
 
   return (
@@ -119,7 +119,7 @@ export default function AboutPage() {
           <h2 className="sm:text-5xl text-3xl font-bold mb-10 text-center text-indigo-700 drop-shadow-lg">
             Our Branches
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-12 hover:shadow-sm">
             {branches.map(({ name, address, phone, image }) => (
               <div
                 key={name}
@@ -197,15 +197,15 @@ export default function AboutPage() {
         </section>
 
         {/* Collaborations - Circular Logos with hover scale */}
-        <section className="mb-28 max-w-6xl mx-auto text-center">
-          <h2 className="sm:text-5xl text-2xl font-bold mb-5 sm:mb-12 text-orange-600 drop-shadow-md">
+        <section className="sm:mb-28 mb-14 max-w-6xl mx-auto text-center">
+          <h2 className="sm:text-3xl text-2xl font-bold mb-5 sm:mb-12 text-orange-600 drop-shadow-md">
             Our Collaborations
           </h2>
           <div className="flex flex-wrap justify-center sm:gap-12 gap-5">
             {partners.map(({ name, logo }) => (
               <div
                 key={name}
-                className="w-12 h-12 sm:w-36 sm:h-36 rounded-full bg-white shadow-lg flex items-center justify-center overflow-hidden hover:shadow-xl hover:scale-110 transition cursor-pointer"
+                className="w-10 h-10 sm:w-20 sm:h-20 rounded-full bg-white shadow-lg flex items-center justify-center overflow-hidden hover:shadow-xl hover:scale-110 transition cursor-pointer"
               >
                 <img
                   src={logo}
@@ -222,7 +222,7 @@ export default function AboutPage() {
         <div className="text-center">
           <Link
             href="/"
-            className="inline-block px-14 py-4 bg-indigo-600 text-white text-lg font-semibold rounded-full shadow-lg hover:bg-indigo-700 transition"
+            className="inline-block sm:px-14 sm:py-4 px-8 py-3 bg-orange-600 text-white text-lg font-semibold rounded-full shadow-lg hover:bg-white hover:text-orange-600 transition"
           >
             ← Back to Home
           </Link>
