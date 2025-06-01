@@ -6,7 +6,7 @@ function AllFood() {
   return (
     <div className="w-full bg-black mt-4 sm:mt-20 flex justify-center items-center flex-col">
       <h2 className="text-center text-sm sm:text-2xl font-semibold text-white sm:mb-6">
-        All Khmer Food We Can Provide 🍽️
+        Khmer Food We Can Provide 🍽️
       </h2>
 
       <div className="lg:w-[1200px] w-full rounded-md bg-black py-2 sm:py-5  overflow-x-auto sm:p-5 scrollbar-thin scrollbar-thumb-blue-600 scrollbar-track-blue-200 px-1">
