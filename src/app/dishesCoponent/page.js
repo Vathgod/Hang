@@ -5,7 +5,7 @@ const products = [
     description:
       "This is a compelling description of the product, highlighting its key features, benefits, and why it's a great choice. Crafted with attention to detail.",
     price: "$199.99",
-    imageSrc: "/imageCon/kh/image.png",
+    imageSrc: "/imageCon/dishes/d5.png",
     buttonText: "Add to Collection",
     reverse: false, // image on right
   },

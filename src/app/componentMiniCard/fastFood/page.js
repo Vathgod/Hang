@@ -1,6 +1,6 @@
 const products = [
   {
-    image: "/imageCon/fastFood/ff1.png",
+    image: "/imageCon/fastfood/ff1.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -8,31 +8,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/kh/kh11.png",
-    name: "1. Fresh Lok Lak",
-    description: "Khmer Traditional food",
-    price: "8.99",
-    star: "⭐⭐⭐⭐⭐",
-    rating: 4.5,
-  },
-  {
-    image: "/imageCon/kh/kh13.png",
-    name: "1. Fresh ",
-    description: "Khmer Traditional food",
-    price: "8.99",
-    star: "⭐⭐⭐⭐⭐",
-    rating: 4.5,
-  },
-  {
-    image: "/imageCon/kh/kh12.png",
-    name: "1. Fresh Lok Lak",
-    description: "Khmer Traditional food",
-    price: "8.99",
-    star: "⭐⭐⭐⭐⭐",
-    rating: 4.5,
-  },
-  {
-    image: "/imageCon/fastFood/ff2.png",
+    image: "/imageCon/fastfood/ff2.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -40,7 +16,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff3.png",
+    image: "/imageCon/fastfood/ff3.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -48,7 +24,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff4.png",
+    image: "/imageCon/fastfood/ff4.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -56,7 +32,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff5.png",
+    image: "/imageCon/fastfood/ff5.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -64,7 +40,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff6.png",
+    image: "/imageCon/fastfood/ff6.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -72,7 +48,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff7.png",
+    image: "/imageCon/fastfood/ff7.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -80,7 +56,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff8.png",
+    image: "/imageCon/fastfood/ff8.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -88,7 +64,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff9.png",
+    image: "/imageCon/fastfood/ff9.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -96,7 +72,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff10.png",
+    image: "/imageCon/fastfood/ff10.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -104,7 +80,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff11.png",
+    image: "/imageCon/fastfood/ff11.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -112,7 +88,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff12.png",
+    image: "/imageCon/fastfood/ff12.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
@@ -120,7 +96,7 @@ const products = [
     rating: 4.5,
   },
   {
-    image: "/imageCon/fastFood/ff13.png",
+    image: "/imageCon/fastfood/ff13.png",
     name: "1. Fresh Lok Lak",
     description: "Fast food",
     price: "8.99",
