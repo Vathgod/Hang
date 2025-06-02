@@ -13,7 +13,7 @@ export default function Slider() {
   const dotSizeStep = 2; // px reduction per step away from active
 
   // --- Auto Sliding Configuration ---
-  const autoSlideDelay = 4000; // milliseconds (e.g., 3 seconds)
+  const autoSlideDelay = 3000; // milliseconds (e.g., 3 seconds)
 
   // Ref to store the latest currentIndex for use in setTimeout closure
   const currentIndexRef = useRef(currentIndex);
