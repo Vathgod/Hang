@@ -35,6 +35,10 @@ const FirstHero = () => {
           <br className="md:hidden" />
           when hungry in the middle of the night with super fast delivery
         </p>
+        <p className="absolute  z-40 py-1 px-4 text-[5px] text-black font-semibold rounded-sm lg:mt-[500px] mt-[110px] hover:bg-orange-500 bg-orange-600 lg:py-3 lg:px-10 lg:rounded-md">
+          {" "}
+          Enjoy your Food Below
+        </p>
       </div>
     </div>
   );
